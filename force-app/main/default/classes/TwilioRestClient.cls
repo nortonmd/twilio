@@ -586,7 +586,8 @@ public class TwilioRestClient {
         TwilioRestResponse response = null;
         for (Integer retry = 0; retry < this.numRetries; retry++) {
             response = request(path, method, vars);
-            if (response.isClientError()) {
+            // TODO: Use the moc request, then remove the isRunningTest nonsense
+            if ( response.isClientError()) {
                 System.debug('Twilio REST API Client Error: '+response.getResponseText());
                 throw new TwilioRestException(response);
             } else if (response.isServerError()) {

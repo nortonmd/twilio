@@ -65,7 +65,7 @@
             "sourcePath": "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes",
             "isDirectory": true,
             "size": 4608,
-            "modifiedTime": 1522504460542,
+            "modifiedTime": 1522505429631,
             "changeTime": 1522502987066,
             "contentHash": "a870b69d792f9a2352247f5c49e1569f044b32c5",
             "isMetadataFile": false,
@@ -1247,16 +1247,15 @@
     [
         "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes/TwilioRestClient.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes/TwilioRestClient.cls",
             "isDirectory": false,
-            "size": 26048,
-            "modifiedTime": 1522502986562,
-            "changeTime": 1522502986562,
-            "contentHash": "9983a653028dd139de4a3bb9eef80dd6b177a060",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 26156,
+            "modifiedTime": 1522505429630,
+            "changeTime": 1522505429631,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "38284e81ebf4b78838d3f82d24bc97328cb7517d"
         }
     ],
     [
@@ -1265,13 +1264,12 @@
             "sourcePath": "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes/TwilioRestClient.cls-meta.xml",
             "isDirectory": false,
             "size": 174,
-            "modifiedTime": 1522502986570,
-            "changeTime": 1522502986570,
-            "contentHash": "1815897e4153cdd58e7871abb1f4a7b0541f0340",
+            "modifiedTime": 1522505331226,
+            "changeTime": 1522505331228,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1697,15 +1695,15 @@
     [
         "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes/Twilio_TestCapability.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/twilio/force-app/main/default/classes/Twilio_TestCapability.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 5445,
             "modifiedTime": 1522504460539,
             "changeTime": 1522504460542,
-            "isWorkspace": false,
-            "contentHash": "b79b75730a03707e4e0f0547465012793ed8fbbb"
+            "contentHash": "b79b75730a03707e4e0f0547465012793ed8fbbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -2313,10 +2311,10 @@
         {
             "sourcePath": "/Users/nortonmd/workspace/dx/twilio",
             "isDirectory": true,
-            "size": 416,
-            "modifiedTime": 1522503988486,
-            "changeTime": 1522503988486,
-            "contentHash": "b8122a51ec7e4d98e17fbc5cabfa896fabc28ccb",
+            "size": 448,
+            "modifiedTime": 1522504562124,
+            "changeTime": 1522504562124,
+            "contentHash": "d7d163798297841c88186f0c5f81b504cfde7c80",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
